@@ -83,7 +83,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center mb-6 ">
           <div className="flex items-center gap-3">
             <img
-              src="/logo22.jpg"
+              src=""
               alt="profile"
               className="w-10 h-10 rounded-full"
             />
@@ -107,13 +107,13 @@ const Navbar = () => {
         <hr className="my-6 border-gray-700" />
         <p className="uppercase text-xs text-gray-500 mb-4">Find With Me</p>
         <div className="flex gap-4">
-          <a href="https://www.facebook.com/tasnim.hasan.iqbal" className="p-3 bg-[#24272e]  rounded-xl shadow-lg hover:bg-pink-600 hover:scale-105 transition">
+          <a href="#" className="p-3 bg-[#24272e]  rounded-xl shadow-lg hover:bg-pink-600 hover:scale-105 transition">
             <FaFacebookF />
           </a>
-          <a href="https://www.linkedin.com/in/iqbal-hasan-91a1a5365" className="bg-[#24272e] p-3 rounded-xl shadow-lg hover:bg-pink-600 hover:scale-105 transition">
+          <a href="#" className="bg-[#24272e] p-3 rounded-xl shadow-lg hover:bg-pink-600 hover:scale-105 transition">
             <FaLinkedinIn />
           </a>
-          <a href="https://wa.me/qr/YZ22LZAZUPEBG1" target="_blank" className="bg-[#24272e] p-3 rounded-lg hover:bg-pink-600 transition hover:scale-105 transition">
+          <a href="" target="_blank" className="bg-[#24272e] p-3 rounded-lg hover:bg-pink-600 transition hover:scale-105 transition">
             <FaWhatsapp />
           </a>
         </div>
